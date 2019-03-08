@@ -1,2 +1,9 @@
-# hiring
-Hiring information of Quasar|AI
+# Quasar|AI招聘信息
+
+#### 前端开发
+
+- Web前端开发工程师（1-3年)[查看岗位信息](frontend/web前端开发1-3年.md)
+
+#### 后端开发
+
+暂无岗位需求
